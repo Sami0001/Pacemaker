@@ -13,6 +13,7 @@ public class FileLogger
   {
   }
 
+  
   public static FileLogger getLogger()
   {
     if (logger == null)
